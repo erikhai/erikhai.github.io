@@ -10,6 +10,7 @@
   background-image: url("assets/websiteBackground.jpg");
   background-size:auto;
   margin: 0px;
+  cursor: url("assets/01\ Normal\ select.cur"), default;
   z-index: 1;
 }
 .bodys {
