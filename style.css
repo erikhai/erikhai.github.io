@@ -430,14 +430,14 @@ white;
   flex-wrap: wrap;
   justify-content: space-between;
   list-style: none;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
   
 }
 
 .row-list li{
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 40px;
+  padding-bottom: 40px;
   
 }
 
@@ -446,7 +446,7 @@ white;
   width: calc(25% - 20px); /* Set the width of each item */
   height: 400px; /* Set the height of each item */
 
-  padding: 10px;
+
   margin-bottom: 10px;
   text-align: center;
   box-sizing: border-box; /* Include padding and border in the width */
